@@ -123,6 +123,7 @@ Download the application from the following Dropbox link
  
 
 
-        Reference
-        Jawad Fayaz, Miguel Medalla, Pablo Torres, and Carmine Galasso (2023). "Recurrent Neural Networks based Generalized Ground Motion Model for Chilean Subduction Seismic Environment". Structural Safety. https://www.sciencedirect.com/science/article/pii/S0167473022000893?via%3Dihub.
+   Reference
+        
+	Jawad Fayaz, Miguel Medalla, Pablo Torres, and Carmine Galasso (2023). "Recurrent Neural Networks based Generalized Ground Motion Model for Chilean Subduction Seismic Environment". Structural Safety. https://www.sciencedirect.com/science/article/pii/S0167473022000893?via%3Dihub.
 
